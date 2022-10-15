@@ -1,0 +1,19 @@
+{
+  "name": "troisjs-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.145.0",
+    "troisjs": "^0.3.4",
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "@vue/compiler-sfc": "^3.2.41",
+    "vite": "^3.1.8"
+  }
+}
