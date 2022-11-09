@@ -9,7 +9,7 @@
   "dependencies": {
     "three": "^0.145.0",
     "troisjs": "^0.3.4",
-    "vue": "^3.2.41"
+    "vue": "^3.2.42"
   },
   "devDependencies": {
     "@types/three": "^0.144.0",
