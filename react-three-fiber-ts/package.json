@@ -15,7 +15,7 @@
     "react-dom": "^18.2.0",
     "react-merge-refs": "^2.0.1",
     "react-use-refs": "^1.0.1",
-    "styled-components": "^5.3.10",
+    "styled-components": "^6.0.0",
     "three": "^0.154.0",
     "three-stdlib": "^2.21.10",
     "use-error-boundary": "^2.0.6",
