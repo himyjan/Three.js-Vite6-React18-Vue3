@@ -1,0 +1,4 @@
+[submodule "tresjs"]
+	path = tresjs
+	url = https://github.com/Tresjs/starter.git
+	branch = main

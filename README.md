@@ -4,4 +4,4 @@
 https://github.com/pmndrs/react-three-fiber
 
 # Vue
-https://github.com/troisjs/trois
+https://github.com/Tresjs/tres
