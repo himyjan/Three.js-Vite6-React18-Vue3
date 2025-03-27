@@ -2234,9 +2234,9 @@
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
 "@preconstruct/cli@^2.1.5":
-  version "2.8.11"
-  resolved "https://registry.yarnpkg.com/@preconstruct/cli/-/cli-2.8.11.tgz#f25a71336c04cc2cd1fbab5ffcc5d4ff5b19ef4f"
-  integrity sha512-E2t6oUt0canrRVh2033J36n84tdUIdxQu1/CTA8wXBNGyasFwGLwAj4AfZw/kADGyCimFWOVhXWC8Yqp2rtS3Q==
+  version "2.8.12"
+  resolved "https://registry.yarnpkg.com/@preconstruct/cli/-/cli-2.8.12.tgz#9d91347c2460c812acbd0a68720c2eed8bb64131"
+  integrity sha512-SMsMICUWROmu/vb4cmrk7EJUiWhgNjB3U3tM654K9bu9yECXqrPN473vliO7KPV3CSLhmtl3S4nfcMirEJmyZg==
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/core" "^7.7.7"
@@ -2867,9 +2867,9 @@
     "@types/node" "*"
 
 "@types/node@*":
-  version "22.13.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.13.13.tgz#5e7d110fb509b0d4a43fbf48fa9d6e0f83e1b1e7"
-  integrity sha512-ClsL5nMwKaBRwPcCvH8E7+nU4GxHVx1axNvMZTFHMEfNI7oahimt26P5zjVCRrjiIWj6YFXfE1v3dEp94wLcGQ==
+  version "22.13.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.13.14.tgz#70d84ec91013dcd2ba2de35532a5a14c2b4cc912"
+  integrity sha512-Zs/Ollc1SJ8nKUAgc7ivOEdIBM8JAKgrqqUYi2J997JuKO7/tpQC+WCetQ1sypiKCQWHdvdg9wBNpUPEWZae7w==
   dependencies:
     undici-types "~6.20.0"
 
@@ -4286,9 +4286,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.123"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.123.tgz#fae5bdba0ba27045895176327aa79831aba0790c"
-  integrity sha512-refir3NlutEZqlKaBLK0tzlVLe5P2wDKS7UQt/3SpibizgsRAPOsqQC3ffw1nlv3ze5gjRQZYHoPymgVZkplFA==
+  version "1.5.125"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.125.tgz#544d29660f1646db616dfa843f6d4493b31e9be7"
+  integrity sha512-A2+qEsSUc95QvyFDl7PNwkDDNphIKBVfBBtWWkPGRbiWEgzLo0SvLygYF6HgzVduHd+4WGPB/WD64POFgwzY3g==
 
 emittery@^0.13.1:
   version "0.13.1"
