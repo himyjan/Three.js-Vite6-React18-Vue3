@@ -8,7 +8,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@react-three/drei": "^9.105.5",
+    "@react-three/drei": "^10.0.0",
     "@use-gesture/react": "latest",
     "react": "19.0.0",
     "react-dom": "19.0.0",
