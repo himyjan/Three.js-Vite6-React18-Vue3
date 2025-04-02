@@ -79,7 +79,7 @@
     "pretty-quick": "^4.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-native": "0.78.1",
+    "react-native": "0.78.2",
     "react-nil": "^2.0.0",
     "three": "^0.175.0",
     "three-stdlib": "^2.13.0",
