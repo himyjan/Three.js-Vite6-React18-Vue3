@@ -4457,9 +4457,9 @@ expo-file-system@^18.0.0:
     web-streams-polyfill "^3.3.2"
 
 expo-gl@^15.0.0:
-  version "15.0.4"
-  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-15.0.4.tgz#ea8bc416c37771123e272ccb3e15f49841b00d11"
-  integrity sha512-7Oefd8BesUVP7XlnhWYoc0rX/fkXnTiFoWj4qLYCoBnJ7cIYaaxNpbbeDjn66T2xKeKMkU83PoZ4Zuh+TQ/lzA==
+  version "15.0.5"
+  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-15.0.5.tgz#1f8adff552b074062a0a3905b0d27c4169f21ff3"
+  integrity sha512-KG4g/1tKU0N1cUKGKke901yFsDhc0T9DE97Pv4czq1iVmENP+hYczYhxPl2Mgul/kCgXy80mlwMTS0aoSspzJQ==
   dependencies:
     invariant "^2.2.4"
 
