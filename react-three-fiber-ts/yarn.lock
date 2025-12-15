@@ -5196,14 +5196,14 @@ expo-constants@~18.0.11:
     "@expo/env" "~2.0.8"
 
 expo-file-system@^19.0.0:
-  version "19.0.20"
-  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-19.0.20.tgz#57850ecbca885c50e27eed59917fbb2742fd36c0"
-  integrity sha512-Jr/nNvJmUlptS3cHLKVBNyTyGMHNyxYBKRph1KRe0Nb3RzZza1gZLZXMG5Ky//sO2azTn+OaT0dv/lAyL0vJNA==
+  version "19.0.21"
+  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-19.0.21.tgz#e96a68107fb629cf0dd1906fe7b46b566ff13e10"
+  integrity sha512-s3DlrDdiscBHtab/6W1osrjGL+C2bvoInPJD7sOwmxfJ5Woynv2oc+Fz1/xVXaE/V7HE/+xrHC/H45tu6lZzzg==
 
 expo-gl@^16.0.0:
-  version "16.0.8"
-  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-16.0.8.tgz#6039bc84b4702aceec6844f670e284e907cf5fcf"
-  integrity sha512-Gz/D50FGhe2Gr9ByQjWihPJyCvkU3vOUkxYFYKgDyX5ReaWODxJrYCJAPjLOl2WelMz5en/5ZHgjFdnPd6PHtg==
+  version "16.0.9"
+  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-16.0.9.tgz#2f108bd94a5f4df9c0e5e3f75b0967bb5384edff"
+  integrity sha512-MKzdPYa1fHoN4ObaVCXwqZ1P4a5xMh8wRbj74pb9VsESj4VoetN+1yQkkALM8bU+RShvzu2m3gMkyCQK8P0HvA==
   dependencies:
     invariant "^2.2.4"
 
