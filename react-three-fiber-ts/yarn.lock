@@ -5542,9 +5542,9 @@ expo-file-system@^19.0.0:
   integrity sha512-s3DlrDdiscBHtab/6W1osrjGL+C2bvoInPJD7sOwmxfJ5Woynv2oc+Fz1/xVXaE/V7HE/+xrHC/H45tu6lZzzg==
 
 expo-gl@^16.0.0:
-  version "16.0.9"
-  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-16.0.9.tgz#2f108bd94a5f4df9c0e5e3f75b0967bb5384edff"
-  integrity sha512-MKzdPYa1fHoN4ObaVCXwqZ1P4a5xMh8wRbj74pb9VsESj4VoetN+1yQkkALM8bU+RShvzu2m3gMkyCQK8P0HvA==
+  version "16.0.10"
+  resolved "https://registry.yarnpkg.com/expo-gl/-/expo-gl-16.0.10.tgz#e2006f06c5883579a40ee757d4165b5c3c058d34"
+  integrity sha512-/pPlSJvfmrGuW+UXBRVADr52nhiHFwRGXB8shhQb+b6KKreCuTmQZUASznAXS6YaHNjkOghmkaUW0hRnyiAwBQ==
   dependencies:
     invariant "^2.2.4"
 
