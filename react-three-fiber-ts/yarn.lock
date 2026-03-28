@@ -5232,9 +5232,9 @@ expo-constants@~55.0.9:
     "@expo/env" "~2.1.1"
 
 expo-file-system@^55.0.0:
-  version "55.0.11"
-  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-55.0.11.tgz#9be75b499363d40f1329830c685f34e55710d987"
-  integrity sha512-KMUd6OY375J9WD79ZvjvCDZMveT7YfgiGWdi58/gfuTBsr14TRuoPk8RRQHAtc4UquzWViKcHwna9aPY7/XPpw==
+  version "55.0.12"
+  resolved "https://registry.yarnpkg.com/expo-file-system/-/expo-file-system-55.0.12.tgz#58b683108373cf3c374e3f74ea0ac65bc9e38cec"
+  integrity sha512-MFN/3L3gm174nxP2HqKQsSsPbjAj92wuidKFGSbl3Lt6oJTS09EbTwszX5BhYeeVSprcsw8pnlxYSmhkSqGEFw==
 
 expo-gl@^55.0.0:
   version "55.0.10"
