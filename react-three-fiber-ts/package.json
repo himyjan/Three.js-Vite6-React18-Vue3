@@ -49,7 +49,7 @@
     "@babel/preset-react": "8.0.1",
     "@babel/preset-typescript": "^8.0.0",
     "@changesets/changelog-git": "^1.0.0",
-    "@changesets/cli": "^2.22.0",
+    "@changesets/cli": "^3.0.0",
     "@preconstruct/cli": "^2.1.5",
     "@testing-library/react": "^16.0.0",
     "@types/jest": "^30.0.0",
