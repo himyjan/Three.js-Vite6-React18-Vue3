@@ -44,10 +44,10 @@
     "format:fix": "prettier --write ."
   },
   "devDependencies": {
-    "@babel/core": "7.27.1",
-    "@babel/preset-env": "7.27.2",
-    "@babel/preset-react": "7.27.1",
-    "@babel/preset-typescript": "^7.16.7",
+    "@babel/core": "8.0.6",
+    "@babel/preset-env": "8.0.6",
+    "@babel/preset-react": "8.0.1",
+    "@babel/preset-typescript": "^8.0.0",
     "@changesets/changelog-git": "^1.0.0",
     "@changesets/cli": "^2.22.0",
     "@preconstruct/cli": "^2.1.5",
