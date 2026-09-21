@@ -3639,10 +3639,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/scheduler@0.26.0":
-  version "0.26.0"
-  resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.26.0.tgz#2b7183b9bbb622d130b23bedf06899b7fec7eed5"
-  integrity sha512-WFHp9YUJQ6CKshqoC37iOlHnQSmxNc795UhB26CyBBttrN9svdIrUjl/NjnNmfcwtncN0h/0PPAFWv9ovP8mLA==
+"@types/scheduler@0.28.0":
+  version "0.28.0"
+  resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.28.0.tgz#bfb865f901ad0bf6cd71eb02e64570253157e0d3"
+  integrity sha512-WuK7EQ0YBvNbYwanHo+x3kixrg10+7Ak4rmYmy1dYo3l4FCh0XWeoq/SdqQamKA5wShXse8WRhh0Tt1czTAuTQ==
 
 "@types/stack-utils@^2.0.0", "@types/stack-utils@^2.0.3":
   version "2.0.3"
